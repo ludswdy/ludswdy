@@ -8,7 +8,7 @@
 - I enjoy **comunication**🧑‍💻 and **thinking**🤔. Comment about Code is always welcome🙇‍♂️!
 
 ### Contact 📞
-<img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=j031024y%40gmail.com">
+<a href="mailto:j031024y@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:j031024y@gmail.com">
 
 ### 🪄 Tech Stack 🪄
 ***
