@@ -7,6 +7,9 @@
 - Also, interested in **SW Engineering**⚙️ and **Management**💼.
 - I enjoy **comunication**🧑‍💻 and **thinking**🤔. Comment about Code is always welcome🙇‍♂️!
 
+### Contact 📞
+<img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=j031024y%40gmail.com">
+
 ### 🪄 Tech Stack 🪄
 ***
 **Languages**
