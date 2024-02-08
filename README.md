@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=b0a0ff&height=300&section=header&text=Jinyoung%20Yang&fontSize=60&desc=Software%20Developer&descAlign=62&descAlignY=64&descSize=22)
+![header](https://capsule-render.vercel.app/api?type=venom&color=b0a0ff&height=300&section=header&text=Jinyoung%20Yang&fontSize=60&fontColor=white&desc=Software%20Developer&descAlign=62&descAlignY=64&descSize=22)
 # Hello!! I'm Jinyoung 👋
 ***
 ## About me 🙋‍♂️
