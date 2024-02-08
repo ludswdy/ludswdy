@@ -10,10 +10,10 @@
 
 ### 🪄 Tech Stack 🪄
 ***
-<div align="center">
-  ![Static Badge](https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=Swift&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-%23437291?style=for-the-badge&logo=OpenJDK&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=Swift&logoColor=%23005cfd) ![Static Badge](https://img.shields.io/badge/UIKIT-%232396F3?style=for-the-badge&logo=uikit&logoColor=white) ![Static Badge](https://img.shields.io/badge/unreal_engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-</div>
+<center>
+![Static Badge](https://img.shields.io/badge/Swift-%23F05138?style=for-the-badge&logo=Swift&logoColor=white) ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=Python&logoColor=white) ![Static Badge](https://img.shields.io/badge/java-%23437291?style=for-the-badge&logo=OpenJDK&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SwiftUI-black?style=for-the-badge&logo=Swift&logoColor=%23005cfd) ![Static Badge](https://img.shields.io/badge/UIKIT-%232396F3?style=for-the-badge&logo=uikit&logoColor=white) ![Static Badge](https://img.shields.io/badge/unreal_engine-%230E1128?style=for-the-badge&logo=unrealengine&logoColor=white) ![Static Badge](https://img.shields.io/badge/spring_boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+</center>
 ### 🧑‍💻 Collab Tools 🧑‍💻
 ***
 <div align="center">
