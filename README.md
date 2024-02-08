@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=b0a0ff&height=300&section=header&text=Jinyoung%20Yang&fontSize=60&fontColor=ffffff&desc=Software%20Developer&descAlign=62&descAlignY=64&descSize=22)
 # Hello!! I'm Jinyoung 👋
 ***
+![header](https://capsule-render.vercel.app/api?type=venom&color=b0a0ff&height=300&section=header&text=Jinyoung%20Yang&fontSize=60&fontColor=ffffff&desc=Software%20Developer&descAlign=62&descAlignY=64&descSize=22)
 ## About me 🙋‍♂️
 ***
 - I'm majoring in **Computer Science & Engineering**💻 at **Kyung Hee Univ**🏛️.
