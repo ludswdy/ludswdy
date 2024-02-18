@@ -5,7 +5,7 @@
 - I'm majoring in **Computer Science & Engineering**💻 at **Kyung Hee Univ**🏛️.
 - Now, I'm interested in **App Dev** (especially, **iOS**🍎), **UI/UX Design**🕶️.
 - Also, interested in **SW Engineering**⚙️ and **Management**💼.
-- I enjoy **comunication**🧑‍💻 and **thinking**🤔. Comment about Code is always welcome🙇‍♂️!
+- I enjoy **comunication**🧑‍💻 and **thinking**🤔. Comments about Code are always welcome🙇‍♂️!
 
 ### Contact 📞
 <a href="mailto:j031024y@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:j031024y@gmail.com"> <a href="https://www.instagram.com/ludswdy"><img alt="Static Badge" src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fludswdy">
