@@ -3,7 +3,7 @@
 ## About me 🙋‍♂️
 ***
 - I'm majoring in **Computer Science & Engineering**💻 at **Kyung Hee Univ**🏛️.
-- Now, I'm interested in **App Dev**, **UI/UX Design**🕶️.
+- Now, I'm interested in **App Dev**, **UI/UX Design**🕶️, **Network**🛜 and **Communication Protocols**📜.
 - Also, interested in **SW Engineering**⚙️ and **Management**💼.
 - I enjoy **comunication**🧑‍💻 and **thinking**🤔. Comments about Code are always welcome🙇‍♂️!
 
